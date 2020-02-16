@@ -78,7 +78,6 @@
 <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="PaymentPage.aspx.cs" Inherits="ShoppingFLowerForm.PaymentPage" %>
 
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Flowershop_Form</title>
