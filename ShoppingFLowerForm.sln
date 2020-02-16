@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingFLowerForm", "ShoppingFLowerForm\ShoppingFLowerForm.csproj", "{8FCC68A8-34D2-4765-A8BB-2A50FA081AB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FCC68A8-34D2-4765-A8BB-2A50FA081AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCC68A8-34D2-4765-A8BB-2A50FA081AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCC68A8-34D2-4765-A8BB-2A50FA081AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCC68A8-34D2-4765-A8BB-2A50FA081AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CDCEB20-D5E1-4232-9F89-1F16382C4B16}
+	EndGlobalSection
+EndGlobal
